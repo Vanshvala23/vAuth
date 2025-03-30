@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Vanshvala23/vAuth/issues"
   },
-  "homepage": "https://github.com/Vanshvala23/vAuth#readme"
+  "homepage": "https://github.com/Vanshvala23/vAuth#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "pqcrypto": "^1.0.1",
+    "uuid": "^11.1.0"
+  }
 }
