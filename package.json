@@ -21,6 +21,7 @@
   "dependencies": {
     "crypto": "^1.0.1",
     "dotenv": "^16.4.7",
+    "libsodium-wrappers": "^0.7.15",
     "pqcrypto": "^1.0.1",
     "uuid": "^11.1.0"
   }
